@@ -1,4 +1,4 @@
-# Hyperspectral Dataset
+# SWIR Hyperspectral Dataset of moist stone samples to estimate the moisture content 
 In this work, we have created an extensive SWIR hyperspectral dataset which contains hyperspectral images of six porous building materials: five natural stones (Euville, Massangis, Neubrunner, Obernkirchener, and Savonnières) and one archaeological red brick. For each material, six replicate specimens measuring approximately 6 × 6 × 6 cm³ were prepared. From each sample cube, a small cylindrical sub-sample was extracted to study spatial heterogeneity. In total, 36 sample cubes and 36 cylindrical sub-samples were produced. Moisture levels were carefully controlled across five target saturation states (25%, 50%, 75%, 90%, and 100%). Hyperspectral images of both moist and dry samples were acquired using an Imec Snapscan SWIR camera (1100–1670 nm, ~5 nm spectral resolution), under uniform lighting and consistent positioning.
 This is an open-source dataset. If you use it in your work, please cite the DOI: 10.5281/zenodo.15304416. 
 
