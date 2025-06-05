@@ -14,7 +14,7 @@ M – Massangis
 N – Neubrunner
 OB – Obernkirchener
 S – Savonnières
-Each .mat file contains the hyperspectral reflectance data and wavelength information of the image for the specific sample and saturation condition.
 
+Each .mat file contains the hyperspectral reflectance data and wavelength information of the image for the specific sample and saturation condition.
 
 The journal paper describing the dataset in detail and a method to estimate MC from spectral reflectance is currently under submission. The DOI of the paper will be included once published.
